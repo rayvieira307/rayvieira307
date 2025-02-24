@@ -1,16 +1,27 @@
-## Hi there 👋
+Olá, eu sou o Ray Vieira 👋
+Sobre Mim
+Sou um desenvolvedor de software apaixonado por projetos de código aberto e desenvolvimento colaborativo. Gosto de enfrentar problemas desafiadores e estou sempre aprendendo novas tecnologias para aprimorar minhas habilidades.
 
-<!--
-**rayvieira307/rayvieira307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Atualmente estou aprendendo técnicas avançadas de desenvolvimento web e explorando.
+👯 Estou buscando colaborar em projetos interessantes que possam causar um impacto positivo.
+💬 Pergunte-me sobre desenvolvimento web, computação em nuvem e contribuições para projetos de código aberto.
+📫 Como me encontrar: vieirarayssa167@gmail.com
+😄 Pronomes: Ela/Dela
+⚡ Fato curioso: Adoro fazer trilhas, praia e desgustar um bom prato.
+Estatísticas do GitHub
+Estatísticas do GitHub de Ray Vieira
 
-Here are some ideas to get you started:
+Principais Linguagens
+Principais Linguagens
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projetos
+Aqui estão alguns dos meus projetos notáveis:
+
+Projeto Um - Gerenciador de Eventos
+Projeto Dois - Code Challenge
+Sinta-se à vontade para conferir meus repositórios para ver mais do meu trabalho!
+
+Conecte-se Comigo
+LinkedIn - https://www.linkedin.com/in/rayssa-vieira-1391092b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Instagram - @rayvieira307
+Obrigado por visitar meu perfil! Tenha um ótimo dia! 😄
