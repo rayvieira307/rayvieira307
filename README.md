@@ -23,7 +23,8 @@ Aqui estão alguns dos meus projetos notáveis:
 
 1. **Projeto Um** - Gerenciador de Eventos
 2. **Projeto Dois** - Code Challenge
- Sinta-se à vontade para conferir meus repositórios para ver mais do meu trabalho!
+   
+ -Sinta-se à vontade para conferir meus repositórios para ver mais do meu trabalho!
 
 ## Conecte-se Comigo
 - LinkedIn - https://www.linkedin.com/in/rayssa-vieira-1391092b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
