@@ -1,5 +1,5 @@
-##Olá, eu sou o Ray Vieira 👋
-##Sobre Mim
+# Olá, eu sou o Ray Vieira 👋
+## Sobre Mim
 Sou um desenvolvedor de software apaixonado por projetos de código aberto e desenvolvimento colaborativo. Gosto de enfrentar problemas desafiadores e estou sempre aprendendo novas tecnologias para aprimorar minhas habilidades.
 
 -🌱 Atualmente estou aprendendo técnicas avançadas de desenvolvimento web e explorando.
@@ -15,17 +15,17 @@ Sou um desenvolvedor de software apaixonado por projetos de código aberto e des
 
 
 
-##Principais Linguagens
+## Principais Linguagens
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayvieira307&layout=compact&theme=radical)
 
-##Projetos
+## Projetos
 Aqui estão alguns dos meus projetos notáveis:
 
 **Projeto Um** - Gerenciador de Eventos
 **Projeto Dois** - Code Challenge
 Sinta-se à vontade para conferir meus repositórios para ver mais do meu trabalho!
 
-##Conecte-se Comigo
+## Conecte-se Comigo
 -LinkedIn - https://www.linkedin.com/in/rayssa-vieira-1391092b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 -Instagram - @rayvieira307
 
