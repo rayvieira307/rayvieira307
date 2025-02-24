@@ -22,7 +22,7 @@ Sou um desenvolvedor de software apaixonado por projetos de código aberto e des
 Aqui estão alguns dos meus projetos notáveis:
 
 **Projeto Um** - Gerenciador de Eventos
-**Projeto Dois** - Code Challenge
+- **Projeto Dois** - Code Challenge
 Sinta-se à vontade para conferir meus repositórios para ver mais do meu trabalho!
 
 ## Conecte-se Comigo
