@@ -8,10 +8,12 @@ Sou um desenvolvedor de software apaixonado por projetos de código aberto e des
 📫 Como me encontrar: vieirarayssa167@gmail.com
 😄 Pronomes: Ela/Dela
 ⚡ Fato curioso: Adoro fazer trilhas, praia e desgustar um bom prato.
-Estatísticas do GitHub
-Estatísticas do GitHub de Ray Vieira
 
-Principais Linguagens
+
+Estatísticas do GitHub
+![Ray Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayvieira307&show_icons=true&theme=radical)
+
+
 
 Principais Linguagens
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayvieira307&layout=compact&theme=radical)
