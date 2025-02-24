@@ -12,7 +12,9 @@ Estatísticas do GitHub
 Estatísticas do GitHub de Ray Vieira
 
 Principais Linguagens
+
 Principais Linguagens
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayvieira307&layout=compact&theme=radical)
 
 Projetos
 Aqui estão alguns dos meus projetos notáveis:
