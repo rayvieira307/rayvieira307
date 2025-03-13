@@ -1,4 +1,4 @@
-# Olá, eu sou o Ray Vieira 👋
+# Olá, eu sou a Ray👋
 ## Sobre Mim
 Sou um desenvolvedor de software apaixonado por projetos de código aberto e desenvolvimento colaborativo. Gosto de enfrentar problemas desafiadores e estou sempre aprendendo novas tecnologias para aprimorar minhas habilidades.
 
