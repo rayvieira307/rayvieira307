@@ -7,7 +7,7 @@ Sou uma desenvolvedora de software apaixonada por projetos de código aberto e d
 - 💬 Pergunte-me sobre desenvolvimento web, computação em nuvem e contribuições para projetos de código aberto.
 - 📫 Como me encontrar: vieirarayssa167@gmail.com
 - 😄 Pronomes: Ela/Dela
-- ⚡ Fato curioso: Adoro fazer trilhas, praia e desgustar um bom prato.
+- ⚡ Fato curioso: Adoro ir a praia e passar um tempo com pessoas que amo.
 
 
 ## Estatísticas do GitHub
