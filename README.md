@@ -1,6 +1,6 @@
 # Olá, eu sou a Ray👋
 ## Sobre Mim
-Sou um desenvolvedor de software apaixonado por projetos de código aberto e desenvolvimento colaborativo. Gosto de enfrentar problemas desafiadores e estou sempre aprendendo novas tecnologias para aprimorar minhas habilidades.
+Sou uma desenvolvedora de software apaixonada por projetos de código aberto e desenvolvimento colaborativo. Gosto de enfrentar problemas desafiadores e estou sempre aprendendo novas tecnologias para aprimorar minhas habilidades.
 
 - 🌱 Atualmente estou aprendendo técnicas avançadas de desenvolvimento web e explorando.
 - 👯 Estou buscando colaborar em projetos interessantes que possam causar um impacto positivo.
@@ -30,4 +30,4 @@ Aqui estão alguns dos meus projetos notáveis:
 - LinkedIn - https://www.linkedin.com/in/rayssa-vieira-1391092b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Instagram - @rayvieira307
 
-Obrigado por visitar meu perfil! Tenha um ótimo dia! 😄
+Obrigada por visitar meu perfil! Tenha um ótimo dia! 😄
